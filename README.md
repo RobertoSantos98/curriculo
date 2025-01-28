@@ -14,6 +14,5 @@ Se você se interessou pelo meu perfil ou deseja saber mais, fique à vontade pa
 
 LinkedIn: (https://www.linkedin.com/in/robertosantos98/)
 
-E-mail: roberto.santos@email.com
 
 Agradeço pela visita ao meu repositório! Estou animado para novas oportunidades e desafios no mercado de trabalho.
