@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e estou sempre desenvolvendo minhas habilidades pa
 
 ## Como acessar meu currículo?
 
-Você pode visualizar e baixar meu currículo acessando o arquivo Curriculo.pdf presente neste repositório.
+Você pode visualizar e baixar meu currículo acessando o arquivo Curriculo_-_Analise-e-Desenvolvedor.pdf presente neste repositório.
 
 ## Contato
 
